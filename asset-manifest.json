@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/InternshipForm/static/css/main.c2cd9544.css",
+    "main.js": "/InternshipForm/static/js/main.9895d233.js",
+    "static/js/535.7685f8dc.chunk.js": "/InternshipForm/static/js/535.7685f8dc.chunk.js",
+    "index.html": "/InternshipForm/index.html",
+    "main.c2cd9544.css.map": "/InternshipForm/static/css/main.c2cd9544.css.map",
+    "main.9895d233.js.map": "/InternshipForm/static/js/main.9895d233.js.map",
+    "535.7685f8dc.chunk.js.map": "/InternshipForm/static/js/535.7685f8dc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c2cd9544.css",
+    "static/js/main.9895d233.js"
+  ]
+}
